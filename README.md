@@ -23,7 +23,7 @@ Expand “(topic/title)” with (specific language).
 ```
 ## Find some inspiration
 ```
-Please write a outline for “(topic/title)”.
+Please write an outline for “(topic/title)”.
 ```
 ```
 Please write 10 random keywords for “(topic/title)”.
